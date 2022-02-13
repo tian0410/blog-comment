@@ -1,7 +1,7 @@
 ---
 name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
+about: please input any question.
+title: 请留言
 labels: ''
 assignees: ''
 
